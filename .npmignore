@@ -1,0 +1,33 @@
+# Source files
+src/
+
+# Config files
+tsconfig.json
+.gitignore
+.npmignore
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Example files
+example-*
+
+# Logs
+logs/
+*.log
+
+# Test files
+test/
+*.test.ts
+*.spec.ts
+
+# Github files
+.github/
+
+# Temporary files
+tmp/
+temp/ 

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dice-stats": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dice-stats/mcp-server"
+      ]
+    }
+  }
+} 
