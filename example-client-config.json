@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@dice-stats/mcp-server"
+        "@jmvilomet/dice-stats-mcp-server"
       ]
     }
   }

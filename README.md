@@ -15,7 +15,7 @@ An MCP (Model Context Protocol) server that provides dice rolling and probabilit
 The easiest way to use this tool is via NPX:
 
 ```bash
-npx @dice-stats/mcp-server
+npx @jmvilomet/dice-stats-mcp-server
 ```
 
 ### Global Installation
@@ -23,7 +23,7 @@ npx @dice-stats/mcp-server
 You can also install it globally:
 
 ```bash
-npm install -g @dice-stats/mcp-server
+npm install -g @jmvilomet/dice-stats-mcp-server
 ```
 
 Then run:
@@ -43,7 +43,7 @@ To integrate this MCP server with your MCP client (such as Claude or GPT), add t
       "command": "npx",
       "args": [
         "-y",
-        "@dice-stats/mcp-server"
+        "@jmvilomet/dice-stats-mcp-server"
       ]
     }
   }
@@ -92,7 +92,7 @@ The server supports the following dice notation:
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/dice-stats-mcp-server.git
+git clone https://github.com/JMVilomet/dice-stats-mcp-server.git
 cd dice-stats-mcp-server
 npm install
 ```

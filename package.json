@@ -1,5 +1,5 @@
 {
-  "name": "@dice-stats/mcp-server",
+  "name": "@jmvilomet/dice-stats-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for dice rolling and probability calculations",
   "main": "dist/index.js",
